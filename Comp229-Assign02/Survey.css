@@ -1,0 +1,17 @@
+﻿body {
+    background-image: url('Images/Grey.jpg');
+    font-family:'Californian FB';
+}
+    .jumbotron
+
+{
+    margin-bottom: 0px;
+    background-color:lightcoral;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: grey 0.3em 0.3em 0.3em;
+}
+
+
