@@ -67,7 +67,7 @@
                  <br />
                  <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Submit Survey" Width="116px" />
                  <br />
-
+                 <asp:Label ID="Label1" runat="server" Text="Submission Successful !!" Visible="false" ForeColor="Red"></asp:Label>
             </div>
       <a href="Default.aspx"><img src="Images/Home.png" width= "115px" height= "100px" alt="Home Logo" title="Home Link"></a>
         <a href="Contact.aspx"><img src="Images/ThankYou.png" width= "115px" height= "100px" alt="Thank You Logo" title="ThankYou Link"></a>
