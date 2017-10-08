@@ -9,6 +9,9 @@
          <a href="Default.aspx"><img src="Images/Home.png" width= "115px" height= "100px" alt="Home Logo" title="Home Link"></a>
         <a href="Contact.aspx"><img src="Images/ThankYou.png" width= "115px" height= "100px" alt="Thank You Logo" title="ThankYou Link"></a>
         <a href="About.aspx"><img src="Images/Survey.png" width= "115px" height= "100px" alt="Survey Logo" title="Survey Link"></a>
+        <%--Sources(Survey):https://cdn1.iconfinder.com/data/icons/survey/500/Questionnaire_warhorse-512.png--%>;
+        <%--Sources(Home):https://cdn1.iconfinder.com/data/icons/black-easy/512/538708-home_512x512.png--%>;
+        <%--Sources(ThankYou):https://cdn.mountaindesigns.com/Content/user/MD/Img/Icon%20Thank%20you.png--%>;
     </div>
 
 </asp:Content>
